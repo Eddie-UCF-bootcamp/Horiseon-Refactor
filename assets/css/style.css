@@ -90,22 +90,15 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-** consolidated benefits above, line 89-91 **
+/* consolidated benefits above, line 89-91 */
 
-.benefit-lead h3 {
+.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
+/* consolidated the h3's, lines 95-97*/
 
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
 
 .benefit-lead img {
     display: block;
