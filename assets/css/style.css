@@ -100,23 +100,13 @@ p {
 /* consolidated the h3's, lines 95-97*/
 
 
-.benefit-lead img {
+.benefit-lead img,.benefit-brand img, .benefit-cost img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
+/*consolidating the img  lines 103-106*/
 
 .search-engine-optimization {
     margin-bottom: 20px;
